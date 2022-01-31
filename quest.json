@@ -1,0 +1,30 @@
+[
+  {
+    "q": "how older you?",
+    "answer": {
+      "a1": "12",
+      "a2": "14",
+      "a3": "17"
+    },
+    "correct": "12"
+  },
+  {
+    "q": "what are you?",
+    "answer": {
+      "a1": "fine",
+      "a2": "well",
+      "a3": "bad"
+    },
+    "correct": "fine"
+  },
+  {
+    "q": "what is  your nationality?",
+    "answer": {
+      "a1": "uk",
+      "a2": "usa",
+      "a3": "india",
+      "a4": "egypt"
+    },
+    "correct": "egypt"
+  }
+]

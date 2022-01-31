@@ -1,0 +1,37 @@
+
+h2{
+  
+  background-color: gray;
+  color:honeydew;
+  padding: 4px;
+}.collect {
+  margin-left: 30%;
+  margin-top: 50px;
+  border: dimgray 1px solid;
+  width: 40%;
+  padding: 30px;
+  box-shadow: gray 1px 1px;
+}
+#main{
+  text-transform:capitalize;
+  color:rgb(66, 66, 66);
+}
+button {
+  background-color: cornflowerblue;
+  color: cornsilk;
+  font-size: 16px;
+  padding: 6px;
+  margin-left: 80%;
+  margin-top: 20px;
+ 
+}
+#alert{
+  color:red;
+  font-weight: bold;
+  font-size: 16px;
+}
+.green{
+  color:green;
+  font-weight: bold;
+  font-size: 16px;
+}
